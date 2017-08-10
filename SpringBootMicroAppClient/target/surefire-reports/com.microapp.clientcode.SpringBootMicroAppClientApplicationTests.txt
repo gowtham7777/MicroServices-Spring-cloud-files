@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.microapp.clientcode.SpringBootMicroAppClientApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.457 sec - in com.microapp.clientcode.SpringBootMicroAppClientApplicationTests
