@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.test</groupId>
-	<artifactId>MicroApp-ServerXYZ</artifactId>
+	<artifactId>MicroApp-Spring-Cloud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>lab-3-server-solution</name>
+	<name>server-code</name>
 	<description>Spring Cloud Config Server</description>
 
 	<parent>
@@ -20,7 +20,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<start-class>demo.Application</start-class>
+		<start-class>com.config.server.SpringCloudConfigServer</start-class>
 		<java.version>1.8</java.version>
 	</properties>
 
