@@ -30,4 +30,4 @@ spring:
   profiles: noun
 words: boat,book,vote,seat,backpack,partition,groundho
 
-lucky-word: Serendipity
+welcome: Welcome On Board
