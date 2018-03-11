@@ -13,7 +13,7 @@ words: I,You,He,She,It
 ---
 spring:
   profiles: verb
-words: ran,knew,had,saw,bought
+words: ran,jump,hike,saw,bought
 
 ---
 spring:
@@ -23,11 +23,11 @@ words: a,the
 ---
 spring:
   profiles: adjective
-words: reasonable,leaky,suspicious,ordinary,unlikely
+words: github,com,gowtham7777,SpringCloudMicroApp
 
 ---
 spring:
   profiles: noun
-words: boat,book,vote,seat,backpack,partition,groundho
+words: docs,google,com,document
 
 welcome: Welcome On Board
